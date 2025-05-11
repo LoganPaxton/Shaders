@@ -1,3 +1,6 @@
+// Date of creation: May 10th, 2025
+// Time to make: 2 hours
+
 #ifdef GL_ES
 precision mediump float;
 #endif
